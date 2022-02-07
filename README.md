@@ -1,2 +1,2 @@
 # NAO_Robot_AI
-CS 5820 Project Code
+NAO ROBOT emotion recognition project works with NAO Robot to recogniize facial expressions.
